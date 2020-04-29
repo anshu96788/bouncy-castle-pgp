@@ -52,7 +52,7 @@ public class PgpEncrypt {
             Security.addProvider( provider );
         }
 	public static void main(String[] args) {
-               String publicKeyFilePath = "aa.txt";
+               String publicKeyFilePath = "publickey.txt";
 try{
         FileInputStream	in = new FileInputStream(publicKeyFilePath);
 
@@ -67,7 +67,7 @@ byte[] byteArr1 = encrypt( byteArr,  publicKey, true );
 String s1 = new String(byteArr1);
 System.out.println("-----------------------------\nencrypted message\n"+s1);
 
-FileInputStream secKey = new FileInputStream("private.txt");
+FileInputStream secKey = new FileInputStream("privatekey.txt");
 FileOutputStream dfis = new FileOutputStream("msg.txt");
         dfis.write(byteArr1);
         dfis.close();
