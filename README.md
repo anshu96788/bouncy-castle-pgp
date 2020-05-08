@@ -1,7 +1,7 @@
 # bouncy-castle-pgp
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your intregration server for development and testing purposes.
+These instructions will get you a copy of the project up and running on your intregration server.
 ### Prerequisites
 1. SoftwareAG integration server.
 2. SoftwareAG Designer.
