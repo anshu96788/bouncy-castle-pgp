@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your int
 7. You output along with input will display like this.
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81396267-b512d200-9142-11ea-8a0b-ba5c572376ad.png)
 ## Fixing import error
-1. If you are facing any import error click on the red mark in fornt of the error line and then click Fix Project Setup..
+1. If you are facing any import error click on the red mark in fornt of the error line and then click <b> Fix Project Setup.. </b>
 ![jj](https://user-images.githubusercontent.com/60179170/81393821-97dc0480-913e-11ea-9086-a546d5bea370.png)
 2. Then click on "here" option for more and then click on Add external JARs.<br />
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81395095-aa573d80-9140-11ea-9d38-b91ab29172d9.png)
