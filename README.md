@@ -22,12 +22,17 @@ These instructions will get you a copy of the project up and running on your int
 ![jj](https://user-images.githubusercontent.com/60179170/81392418-4468b700-913c-11ea-8ba8-9d21e8028140.png)
 ## Run the java services
 1. Start integration server.
-2. Open your SoftwareAG Designer and connect to the server. To connect right click on Default package and click <b> on connect to the server option </b>.
+2. Open your SoftwareAG Designer and connect to the server. To connect right click on Default package and click on connect to the server option.
 ![jj](https://user-images.githubusercontent.com/60179170/81392609-898ce900-913c-11ea-82fa-126452b990b8.png)
 3. After you have successfully connected double click on Default package and select WxPGPUtils.
 ![jj](https://user-images.githubusercontent.com/60179170/81392929-0ddf6c00-913d-11ea-9d7d-25a8f8809d27.png)
 4. Open any one of the four Java Services.
-
+5. Right click on the code part, goto<b> Run as</b>>> then click on <b>Run Service</b> and click OK.
+![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81395848-f9ea3900-9141-11ea-9546-bf8a91a3caa4.png)
+6. Provide the input then click on OK. A demo publick key, private key and password is provided here you can use these for testing or to generate new key pair visit [https://pgpkeygen.com/](https://pgpkeygen.com/).
+![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81396151-7c72f880-9142-11ea-913f-c49f2397f57a.png)
+7. You output along with input will display like this.
+![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81396267-b512d200-9142-11ea-8a0b-ba5c572376ad.png)
 ## Fixing import error
 1. If you are facing any import error click on the red mark in fornt of the error line and then click Fix Project Setup..
 ![jj](https://user-images.githubusercontent.com/60179170/81393821-97dc0480-913e-11ea-9086-a546d5bea370.png)
