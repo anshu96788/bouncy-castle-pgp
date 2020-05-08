@@ -27,13 +27,15 @@ These instructions will get you a copy of the project up and running on your int
 3. After you have successfully connected double click on Default package and select WxPGPUtils.
 ![jj](https://user-images.githubusercontent.com/60179170/81392929-0ddf6c00-913d-11ea-9d7d-25a8f8809d27.png)
 4. Open any one of the four Java Services.
-5. If you are facing any import error click on the red mark in fornt of the error line and then click Fix Project Setup..
+
+## Fixing import error
+1. If you are facing any import error click on the red mark in fornt of the error line and then click Fix Project Setup..
 ![jj](https://user-images.githubusercontent.com/60179170/81393821-97dc0480-913e-11ea-9086-a546d5bea370.png)
-6. Then click on "here" option for more and then click on Add external JARs.
+2. Then click on "here" option for more and then click on Add external JARs.<br />
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81395095-aa573d80-9140-11ea-9d38-b91ab29172d9.png)
-7. Select the two jar from SoftwareAG_x\IntegrationServer\instances\default\packages\WxPGPUtils\code\jars\static. 
+3. Select the two jar from SoftwareAG_x\IntegrationServer\instances\default\packages\WxPGPUtils\code\jars\static. 
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394879-4df41e00-9140-11ea-91b7-c035a72f8104.png)
-8. And then click on Apply and Close. This will fix the error.<br />
+4. And then click on Apply and Close. This will fix the error.<br />
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394495-a0810a80-913f-11ea-8432-fca2bd05e724.png)
 
 
