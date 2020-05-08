@@ -33,7 +33,7 @@ These instructions will get you a copy of the project up and running on your int
 ![jj](https://user-images.githubusercontent.com/60179170/81394008-e5587180-913e-11ea-8399-ed86946ba3e4.png)
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394185-2ea8c100-913f-11ea-8f89-62c3f58b8875.png)
 7. Select the two jar from SoftwareAG_x\IntegrationServer\instances\default\packages\WxPGPUtils\code\jars\static. 
-![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394419-86472c80-913f-11ea-9f33-71d3214d3804.png)
+![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394879-4df41e00-9140-11ea-91b7-c035a72f8104.png)
 8. And then click on Apply and Close. This will fix the error.<br />
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394495-a0810a80-913f-11ea-8432-fca2bd05e724.png)
 
