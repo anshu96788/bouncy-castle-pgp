@@ -5,7 +5,7 @@ These instructions will get you a copy of the project up and running on your int
 ### Prerequisites
 1. SoftwareAG integration server.
 2. SoftwareAG Designer.
-### Importing
+### Importing the project to IS
 1. Download the zip file .
 2. Go to your SoftwareAg folder then IntegrationServer\instances\default\replicate\inbound.
 3. Paste your zip file there.
@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your int
 ![jj](https://user-images.githubusercontent.com/60179170/81391931-8ba27800-913b-11ea-9d26-e158c065bcd2.png)
 9.  Shut Down and Restart your integration server.
 ![jj](https://user-images.githubusercontent.com/60179170/81392418-4468b700-913c-11ea-8ba8-9d21e8028140.png)
-## Running the tests
+## Run the java services
 1. Start integration server.
 2. Open your SoftwareAG Designer and connect to the server. To connect right click on Default package and click on connect to the server option.
 ![jj](https://user-images.githubusercontent.com/60179170/81392609-898ce900-913c-11ea-82fa-126452b990b8.png)
@@ -30,8 +30,7 @@ These instructions will get you a copy of the project up and running on your int
 5. If you are facing any import error click on the red mark in fornt of the error line and then click Fix Project Setup..
 ![jj](https://user-images.githubusercontent.com/60179170/81393821-97dc0480-913e-11ea-9086-a546d5bea370.png)
 6. Then click on "here" option for more and then click on Add external JARs.
-![jj](https://user-images.githubusercontent.com/60179170/81394008-e5587180-913e-11ea-8399-ed86946ba3e4.png)
-![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394185-2ea8c100-913f-11ea-8f89-62c3f58b8875.png)
+![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81395095-aa573d80-9140-11ea-9d38-b91ab29172d9.png)
 7. Select the two jar from SoftwareAG_x\IntegrationServer\instances\default\packages\WxPGPUtils\code\jars\static. 
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394879-4df41e00-9140-11ea-91b7-c035a72f8104.png)
 8. And then click on Apply and Close. This will fix the error.<br />
