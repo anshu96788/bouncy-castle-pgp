@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your int
 ![jj](https://user-images.githubusercontent.com/60179170/81392418-4468b700-913c-11ea-8ba8-9d21e8028140.png)
 ## Run the java services
 1. Start integration server.
-2. Open your SoftwareAG Designer and connect to the server. To connect right click on Default package and click on connect to the server option.
+2. Open your SoftwareAG Designer and connect to the server. To connect right click on Default package and click <b> on connect to the server option </b>.
 ![jj](https://user-images.githubusercontent.com/60179170/81392609-898ce900-913c-11ea-82fa-126452b990b8.png)
 3. After you have successfully connected double click on Default package and select WxPGPUtils.
 ![jj](https://user-images.githubusercontent.com/60179170/81392929-0ddf6c00-913d-11ea-9d7d-25a8f8809d27.png)
