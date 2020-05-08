@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your int
            password : manage
 7. Click on Packages then Install Inbound Releases.
 ![jj](https://user-images.githubusercontent.com/60179170/81390581-55fc8f80-9139-11ea-9990-5665249e2cdc.png)
-8. Select the zip file and click Install Realease.
+8. Select the zip file and click Install Realease.<br />
 ![jj](https://user-images.githubusercontent.com/60179170/81391931-8ba27800-913b-11ea-9d26-e158c065bcd2.png)
 9.  Shut Down and Restart your integration server.
 ![jj](https://user-images.githubusercontent.com/60179170/81392418-4468b700-913c-11ea-8ba8-9d21e8028140.png)
