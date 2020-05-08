@@ -43,6 +43,15 @@ These instructions will get you a copy of the project up and running on your int
 4. And then click on Apply and Close. This will fix the error.<br />
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394495-a0810a80-913f-11ea-8432-fca2bd05e724.png)
 
+## Contributors
+
+[Anshuman Saikia](https://github.com/anshu96788) |
+[Dipankar Dutta](https://github.com/DipankarDDUT) |
+[Nawajish Laskar](https://github.com/Nawajish)
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](https://github.com/SoftwareAG/webmethods-microservicesruntime-samples/blob/master/LICENSE)file for details
 
 
 
